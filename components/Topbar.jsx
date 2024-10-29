@@ -12,7 +12,7 @@ export default function Topbar({ home }) {
           For emergency
         </span>
         <span className={`${home ? "text-white/75" : ""}`}>
-          <span>Call:</span> 08083242233
+          <span>Call:</span> 08109230943
         </span>
       </div>
       <span className="opacity-60 sm:pr-0 pr-10">Or</span>
